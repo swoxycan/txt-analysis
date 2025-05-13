@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/swoxycan/txt-analysis/main/proje.png)
+![MasterHead](https://github.com/user-attachments/assets/feea2303-7565-4c01-88ed-cd4757d9f603)
 
 # TxT Analysis
 
